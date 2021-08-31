@@ -1,16 +1,16 @@
-## Student Name (or name you would preferred to be called)
+## Omar Bello
 
 ### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Introduction to Programming Using Python
 
-- Course 2
+- Introduction to Data Science
 
-- Course 3
+- Cloud Infrastructure and Services
 
-- Course 4
+- Analytic Geometry and Calculus 1
 
 **Hobbies:**
 
