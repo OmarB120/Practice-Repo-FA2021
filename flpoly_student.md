@@ -16,11 +16,11 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Thing 1
+- Gaming
 
-- Thing 2
+- Soccer
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Anime
 
 ***
 
